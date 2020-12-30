@@ -80,7 +80,8 @@ span {
 			<form action="RegistrationSub.jsp" method="post" name="RegForm"
 				onSubmit="return formValidation();">
 				<span>
-					style="font-family: 'Times New Roman'; font-weight: bold; color: white; font-size: 35px">Register
+					
+					<style="font-family: 'Times New Roman'; font-weight: bold; color: white; font-size: 35px">Register
 					Here...</span><br /> <br> <span>Name:</span> <input name="name" required
 					placeholder="Enter your name" class="txt"><br> <br>
 				<span>Gender:</span> <input type="radio" value="Male" name="Gen" />Male<input
