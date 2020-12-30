@@ -1,0 +1,76 @@
+@CHARSET "ISO-8859-1";
+ 
+#up{
+height:70px;
+width:100%;
+}
+#logo{
+	height:70px;
+width:17%;
+float:left;
+}
+#contentm {
+    height:500px;
+    width:100%;	
+}
+#welcome{
+height:200px;
+width:100%
+}
+#menu{
+height:50px;
+width:100%;
+display:inline;
+position: fixed;
+ background:green;
+}
+.mn{
+height:50px;
+width:15%;
+text-decoration:none;
+font-size:22px;
+font-color:white;
+text-align:center;
+float:left;
+}
+.mn :hover{
+	border-radius:70%;
+text-color:red;
+  background-color: #777;
+ 
+}
+#outer{
+	min-height:250px;
+	color:white;
+	width:100%;
+	font-style:oblique;
+font-family:'Times New Roman';
+font-size:20px;
+text-align:center;
+}
+#upFooter{
+	height:200px;
+	width:100%;
+	Background:#3d3636;
+}
+.Ufooterl{
+	height:200px;
+	width:33%;
+	float:left;
+}
+#UfooterC{
+	height:200px;
+	width:34%;
+	float:left;
+}
+#bFooter{
+	height:50px;
+	width:100%;
+	Background:black;
+}
+.BPart{
+	height:50px;
+	width:50%;
+	float:left;
+	line-height:50px;
+}
